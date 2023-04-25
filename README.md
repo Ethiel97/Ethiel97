@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ethiel ADIASSA.
+I'm Ethiel ADIASSA, a Google Developer Expert for Flutter and Dart.
 <!--
 **Ethiel97/Ethiel97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 💫About Me :
 -😎 Passionate Software Engineer.
 
--💬Ask me about Flutter, Laravel, Vue.js, Nuxt.js,Kotlin and related stuff
+-💬Ask me about Flutter, Laravel, Vue.js, Nuxt.js, Adonis.js, Kotlin and related stuff
 
 -📖 Always a learner
 
