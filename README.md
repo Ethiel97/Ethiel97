@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 
 -📖 Always a learner
 
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=ethiel97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?username=ethiel97&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethiel97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ethiel97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ethiel-adiassa) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/enthusiastDev) 
 
@@ -31,11 +37,6 @@ Here are some ideas to get you started:
 
 # Open source Gallery:
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ethiel97&theme=dracula&hide_border=true)
-
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=ethiel97&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?username=ethiel97&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ethiel97&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ethiel97&theme=radical&no-frame=true&no-bg=false&margin-w=4)
