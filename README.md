@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://komarev.com/ghpvc/?Ethiel97)
+
 # 💫About Me :
 -😎 Passionate Software Engineer.
 
